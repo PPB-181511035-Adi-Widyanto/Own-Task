@@ -6,9 +6,6 @@ public class Card {
     private String Description;
     private int Photo;
 
-    public Card() {
-
-    }
 
     public Card(String taskName, String description, int photo) {
         TaskName = taskName;
